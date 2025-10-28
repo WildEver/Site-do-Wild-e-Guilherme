@@ -1,0 +1,75 @@
+🧩 O que é o JavaScript no Desenvolvimento Web
+
+JavaScript (JS) é uma linguagem de programação voltada principalmente para o desenvolvimento de páginas web interativas.
+Ele é um dos três pilares fundamentais da web, junto com:
+
+1. HTML – responsável pela estrutura do conteúdo (textos, imagens, links, etc.);
+2. CSS – responsável pelo estilo e aparência (cores, fontes, tamanhos, layout);
+3. JavaScript – responsável pela interatividade e comportamento da página.
+
+---
+
+💡 Função do JavaScript
+
+Enquanto o HTML cria o corpo da página e o CSS a embeleza, o JavaScript dá vida a ela.
+É ele quem permite que o site responda às ações do usuário, como:
+
+* Exibir mensagens ou alertas;
+* Validar formulários (ex: conferir se o campo de e-mail foi preenchido corretamente);
+* Criar menus dinâmicos e animações;
+* Atualizar partes da página sem recarregar (tecnologia usada em sites modernos como redes sociais e lojas virtuais).
+
+---
+
+ ⚙️ Onde o JavaScript atua
+
+O JavaScript é executado diretamente no navegador (lado do cliente), o que significa que ele não precisa ser recompilado ou instalado — basta que o navegador o interprete.
+Atualmente, também pode ser usado no lado do servidor, com tecnologias como o Node.js, permitindo criar aplicações completas apenas com JavaScript.
+
+---
+
+ 🌐 Exemplos de uso
+
+Alguns exemplos práticos do JavaScript no desenvolvimento web:
+
+* Mostrar um relógio em tempo real na página;
+* Criar slides automáticos de imagens;
+* Montar jogos simples em navegador;
+* Fazer uma página “responder” sem recarregar (usando AJAX e APIs);
+* Controlar elementos HTML (como mudar o texto ou a cor de um botão ao clicar).
+
+---
+
+ 🖥️ Exemplo simples de código JavaScript
+
+html
+&lt;!DOCTYPE html&gt;
+&lt;html lang="pt-br"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;title&gt;Exemplo JavaScript&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1&gt;Bem-vindo!&lt;/h1&gt;
+  &lt;button onclick="mostrarMensagem()"&gt;Clique aqui&lt;/button&gt;
+
+  &lt;script&gt;
+    function mostrarMensagem() {
+      alert("Olá! Você clicou no botão 😄");
+    }
+  &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+```
+
+📘 Nesse exemplo, o JavaScript faz o botão reagir ao clique exibindo uma mensagem ao usuário.
+
+---
+
+ 🧠 Em resumo
+
+| Tecnologia     | Função Principal               |
+| -------------- | ------------------------------ |
+| HTML       | Estrutura do conteúdo          |
+| CSS        | Aparência e estilo             |
+| JavaScript | Interatividade e comportamento |

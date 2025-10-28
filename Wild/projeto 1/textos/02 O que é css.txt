@@ -1,0 +1,108 @@
+🎨 O que é CSS?
+
+CSS (Cascading Style Sheets) é a linguagem de estilo usada para deixar as páginas da web mais bonitas e organizadas.
+Enquanto o HTML define a estrutura e o conteúdo, o CSS define a aparência visual — cores, fontes, tamanhos, margens, espaçamento, bordas, entre outros detalhes.
+
+Podemos pensar assim:
+
+HTML é o esqueleto da página 🦴
+
+CSS é a roupa e o design 👕
+
+💡 Para que serve o CSS?
+
+Com o CSS, é possível:
+
+Alterar cores de textos e fundos;
+
+Definir tamanhos de fonte e tipos de letra;
+
+Criar espaçamento entre elementos;
+
+Fazer bordas, sombras, animações e posicionamentos;
+
+Adaptar o site para celulares e tablets (responsividade).
+
+🧩 Como o CSS é aplicado
+
+Existem três formas principais de usar o CSS em uma página HTML:
+
+1️⃣ CSS Inline (na própria tag HTML)
+Usado diretamente dentro do elemento, com o atributo style.
+Exemplo:
+
+&lt;p style="color: blue;"&gt;Texto azul&lt;/p&gt;
+
+
+2️⃣ CSS Interno (dentro da tag <style> no <head>)
+É colocado dentro do documento HTML, em um bloco próprio.
+Exemplo:
+
+&lt;head&gt;
+  &lt;style&gt;
+    body { background-color: lightgray; }
+    h1 { color: darkblue; }
+  &lt;/style&gt;
+&lt;/head&gt;
+
+
+3️⃣ CSS Externo (em um arquivo separado)
+É a forma mais usada em sites profissionais, pois o código fica mais organizado.
+Exemplo de ligação:
+
+&lt;link rel="stylesheet" href="style.css"&gt;
+
+
+E dentro do arquivo style.css:
+
+body {
+  background-color: #f2f2f2;
+}
+
+h1 {
+  color: #0066cc;
+}
+
+🎯 Estrutura básica de uma regra CSS
+
+Uma regra CSS segue a seguinte estrutura:
+
+seletor {
+  propriedade: valor;
+}
+
+
+📘 Explicando:
+
+Seletor → indica qual elemento será estilizado (ex: body, p, h1);
+
+Propriedade → define o que será alterado (ex: color, font-size, background-color);
+
+Valor → especifica o novo estilo para essa propriedade.
+
+🧩 Exemplo completo:
+
+p {
+  color: green;
+  font-size: 18px;
+  text-align: justify;
+}
+
+
+Esse código faz com que todos os parágrafos (<p>) fiquem com texto verde, tamanho 18px e alinhamento justificado.
+
+🌈 Algumas propriedades comuns do CSS
+Propriedade	Função
+color	Muda a cor do texto
+background-color	Define a cor de fundo
+font-size	Altera o tamanho da fonte
+font-family	Define o tipo de letra
+text-align	Alinha o texto (left, right, center, justify)
+margin	Define o espaço externo do elemento
+padding	Define o espaço interno do elemento
+border	Cria uma borda
+width e height	Largura e altura do elemento
+🧠 Conclusão
+
+O CSS é o responsável por transformar páginas simples em layouts modernos e agradáveis.
+Depois que seus alunos entenderem bem o HTML e o CSS, vocês poderão começar a usar o JavaScript — que é o responsável pela interatividade nas páginas.

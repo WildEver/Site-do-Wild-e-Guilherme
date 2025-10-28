@@ -1,0 +1,54 @@
+O que é HTML?
+
+HTML(HyperText Markup Language) é a linguagem de marcação usada para criar páginas da web.
+Ela define a estrutura e o conteúdo que serão exibidos em um navegador, como textos, imagens, links, tabelas e muito mais.
+
+Diferente das linguagens de programação, o HTML não executa ações ou cálculos — ele apenas organiza e marca os elementos que formam a página.
+Podemos pensar no HTML como o esqueleto de um site.
+
+
+Estrutura básica
+
+Todo documento HTML começa com uma estrutura padrão, composta por tags (ou “etiquetas”) que indicam o início e o fim de cada elemento.
+As tags são escritas entre sinais de menor e maior (&lt; e &gt;).
+
+Exemplo da estrutura básica:
+
+html
+&lt;!DOCTYPE html&gt;
+&lt;html lang="pt-BR"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;title&gt;Minha Página&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1&gt;Olá, mundo!&lt;/h1&gt;
+  &lt;p&gt;Esta é a minha primeira página HTML.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+Principais partes do HTML
+
+&lt;!DOCTYPE html&gt; 👉 Informa ao navegador que o documento está escrito em HTML5.
+&lt;html&gt; 👉 É a tag raiz, que envolve todo o conteúdo da página.
+&lt;head&gt; 👉 Contém informações sobre o documento, como o título e os metadados.
+&lt;title&gt; 👉 Define o nome que aparece na aba do navegador.
+&lt;body&gt; 👉 É onde fica o conteúdo visível, como textos, imagens, links e listas.
+
+
+Exemplos de tags comuns
+
+&lt;h1&gt; a &lt;h6&gt; 👉 Títulos e subtítulos (do maior para o menor).
+&lt;p>** 👉 Parágrafo de texto.
+&lt;a href="..."&gt; 👉 Link para outra página.
+&lt;img src="..."&gt; 👉 Imagem.
+&lt;ul>** e &lt;li&gt; 👉 Lista não ordenada e seus itens.
+&lt;table>**, &lt;tr&gt;, &lt;td&gt; 👉 Usadas para criar tabelas.
+
+
+Conclusão
+
+O HTML é o **primeiro passo** no desenvolvimento de sites.
+Com ele, aprendemos a estruturar o conteúdo; depois, usamos o **CSS** para deixar o site bonito e o **JavaScript** para deixá-lo interativo.
+Dominar o HTML é essencial para quem deseja criar páginas web do zero e entender como a internet funciona por dentro.
+

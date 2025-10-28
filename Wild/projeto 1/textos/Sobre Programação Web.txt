@@ -1,0 +1,29 @@
+Desenvolvimento Web
+
+Desenvolvimento web é o processo de desenvolvimento de websites e aplicações web utilizando diversas linguagens de programação e
+tecnologias para criar funcionalidades e design interativos na internet. 
+
+O que é programação web?
+
+É a área da computação que envolve a criação e manutenção de sites e aplicativos que são acessados por meio de navegadores web. 
+Envolve a escrita de código utilizando linguagens como HTML, CSS, JavaScript, e outras, para construir a estrutura, o visual e 
+a lógica de funcionamento desses sistemas. 
+
+Linguagens e tecnologias importantes:
+HTML: Estrutura o conteúdo da página web. 
+CSS: Define a aparência e o estilo visual da página. 
+JavaScript: Adiciona interatividade e funcionalidades dinâmicas aos sites. 
+
+Linguagens de back-end: Como PHP, Python, Java, etc., que processam dados e lógica no servidor. 
+
+Tipos de programação web:
+Desenvolvimento front-end: Focado na criação da interface do usuário (o que o usuário vê e interage). 
+Desenvolvimento back-end: Focado na lógica de negócios, processamento de dados e interação com o servidor. 
+Desenvolvimento full-stack: Combina o desenvolvimento front-end e back-end. 
+
+Por que aprender programação web?
+Mercado de trabalho: Alta demanda por profissionais qualificados em programação web. 
+Possibilidades: Criação de websites, aplicativos, jogos e outras soluções web. 
+Interação: Permite desenvolver experiências digitais interativas e personalizadas para os usuários. 
+Em resumo, a programação web é uma área fundamental para o desenvolvimento da internet moderna, oferecendo inúmeras 
+oportunidades para profissionais e entusiastas da tecnologia. 
